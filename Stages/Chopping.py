@@ -1,5 +1,5 @@
 from Stage import Stage
 
 
-class Chopping:
+class Chopping(Stage):
     pass
